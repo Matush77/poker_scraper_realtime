@@ -1,5 +1,5 @@
 # poker_scraper_realtime
-a script to scrape, collect and process data in realtime from PokerStart table. Testing purposes only.
+a script to scrape, collect and process data in realtime from PokerStars table. Testing purposes only.
 
 
 MainFunction 3 is used to start the script and collects following data from the table:
